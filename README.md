@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **albertofortes/albertofortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   - Despite being fond of programming and computers since I was a child, I studied philosophy at university and graduated at the top of my class.
   - I'm a highly sensitive person.
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertofortes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
-
+-->
 
 
