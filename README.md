@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ... -->
 - ⚡ Fun facts: 
--- I born before the first personal computer was created. 
--- I started programming Basic as a child in an IBM 8080, and a Sinclair +2. 
--- Despite being fond of programming and computers since I was a child, I studied philosophy at university and graduated at the top of my class.
--- I'm a highly sensitive person.
+  -- I born before the first personal computer was created. 
+  -- I started programming Basic as a child in an IBM 8080, and a Sinclair +2. 
+  -- Despite being fond of programming and computers since I was a child, I studied philosophy at university and graduated at the top of my class.
+  -- I'm a highly sensitive person.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertofortes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 
