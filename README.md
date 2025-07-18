@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I born before the first personal computer was created. I start programming Basic in a IBM 8080, and a Sinclair +2
+- ⚡ Fun fact: I born before the first personal computer was created. I started programming Basic as a child in a IBM 8080, and a Sinclair +2. Despite being fond of programming and computers since I was a child, I studied philosophy at university and graduated at the top of my class.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertofortes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 
